@@ -37,8 +37,8 @@ The goal of this assignment is to recreate the *Concentration* game demonstratio
 The goal of this assignment is to implement a game of solo (i.e. one player) [Set](https://en.wikipedia.org/wiki/Set_(card_game)) completely from scratch by myself.
 
 <p align="center">
-    <img width="200px" src="Screenshots/setv1-portrait.png" alt="concentration-portrait"/>
-    <img height="200px" src="Screenshots/setv1-landscape.png" alt="concentration-landscape"/>
+    <img width="200px" src="Screenshots/setv1-portrait.png" alt="setv1-portrait"/>
+    <img height="200px" src="Screenshots/setv1-landscape.png" alt="setv1-landscape"/>
 </p>
 
 ### Things to learn
@@ -49,3 +49,22 @@ The goal of this assignment is to implement a game of solo (i.e. one player) [Se
 - Using ```struct``` to declare constants
 - ```Equatable```
 - ```enum```
+
+## Set V2 (Custom Views and Multiplayer)
+
+The goal of this assignment is to gain the experience of building my own custom view, including handling custom multitouch gestures.
+Starting with the code of Set V1.
+
+<p align="center">
+    <img width="200px" src="Screenshots/setv2-portrait-initial.png" alt="setv2-portrait-initial"/>
+    <img height="200px" src="Screenshots/setv2-portrait-1p" alt="setv2-portrait-1p"/>
+    <img height="200px" src="Screenshots/setv2-landscape-2p" alt="setv2-landscape-2p"/>
+</p>
+
+### Things to learn
+
+- Creating a custom ```UIView``` with a ```draw(CGRect)``` method
+- Gestures
+- Understanding the ```UIView``` hierarchy
+- Creating ```UIView```s in code (rather than in Interface Builder)
+- Drawing with Core Graphics and ```UIBezierPath```
