@@ -57,8 +57,8 @@ Starting with the code of Set V1.
 
 <p align="center">
     <img width="200px" src="Screenshots/setv2-portrait-initial.png" alt="setv2-portrait-initial"/>
-    <img height="200px" src="Screenshots/setv2-portrait-1p" alt="setv2-portrait-1p"/>
-    <img height="200px" src="Screenshots/setv2-landscape-2p" alt="setv2-landscape-2p"/>
+    <img height="200px" src="Screenshots/setv2-portrait-1p.png" alt="setv2-portrait-1p"/>
+    <img height="200px" src="Screenshots/setv2-landscape-2p.png" alt="setv2-landscape-2p"/>
 </p>
 
 ### Things to learn
