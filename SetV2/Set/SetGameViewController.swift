@@ -67,6 +67,11 @@ class SetGameViewController: UIViewController {
                 cardView.layer.borderWidth = 0
             }
         }
+        
+        // Removing matched cards
+        while gameView.cardViews.count > game.tableCards.count {
+            gameView.cardViews.removeLast()
+        }
     
         gameView.setNeedsDisplay()
         gameView.setNeedsLayout()
