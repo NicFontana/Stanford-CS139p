@@ -74,8 +74,8 @@ Starting with the code of Set V1.
 The goal of this assignment is to add animation to my Set game and combine your first three assignments into one, using ```UITabBarViewController```, ```UISplitViewController``` and ```UINavigationController```.
 
 <p align="center">
-    <img width="200px" src="Screenshots/setv3-portrait.png" alt="setv3-portrait"/>
-    <img height="200px" src="Screenshots/setv3-landscape.png" alt="setv3-landscape"/>
+    <img height="200px" src="Screenshots/setv3-portrait.png" alt="setv3-portrait"/>
+    <img width="200px" src="Screenshots/setv3-landscape.png" alt="setv3-landscape"/>
 </p>
 
 ### Things to learn
