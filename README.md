@@ -68,3 +68,24 @@ Starting with the code of Set V1.
 - Understanding the ```UIView``` hierarchy
 - Creating ```UIView```s in code (rather than in Interface Builder)
 - Drawing with Core Graphics and ```UIBezierPath```
+
+## Set V3 (Multiple MVCs and Animations)
+
+The goal of this assignment is to add animation to my Set game and combine your first three assignments into one, using ```UITabBarViewController```, ```UISplitViewController``` and ```UINavigationController```.
+
+<p align="center">
+    <img width="200px" src="Screenshots/setv3-portrait.png" alt="setv3-portrait"/>
+    <img height="200px" src="Screenshots/setv3-landscape.png" alt="setv3-landscape"/>
+</p>
+
+### Things to learn
+
+- ```UIViewPropertyAnimator```
+- ```UIDynamicAnimator```
+- ```Timer``
+- ```UIView.transition(with:duration:options:animations:completion:)```
+- ```UINavigationController```
+- ```UISplitViewController```
+- ```UITabBarController```
+- Segues
+- Autolayout
