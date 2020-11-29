@@ -82,7 +82,7 @@ The goal of this assignment is to add animation to my Set game and combine your 
 
 - ```UIViewPropertyAnimator```
 - ```UIDynamicAnimator```
-- ```Timer``
+- ```Timer```
 - ```UIView.transition(with:duration:options:animations:completion:)```
 - ```UINavigationController```
 - ```UISplitViewController```
